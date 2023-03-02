@@ -6,6 +6,6 @@ def Different():
     result = max1 - min1
     return result
 print(Different())
-print(3)
+print(31)
 
 
